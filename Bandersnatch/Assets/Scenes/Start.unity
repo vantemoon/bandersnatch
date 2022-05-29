@@ -2552,7 +2552,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: Day 1
+    stringVal: Day 0
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &116296272
