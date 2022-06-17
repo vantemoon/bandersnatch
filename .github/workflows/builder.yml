@@ -27,8 +27,6 @@ jobs:
           UNITY_SERIAL: ${{ secrets.UNITY_SERIAL }}
         with:
           targetPlatform: StandaloneWindows64
-          unityVersion: auto
-          projectPath: Bandersnatch
       - uses: actions/upload-artifact@v2
         with:
           name: Build
