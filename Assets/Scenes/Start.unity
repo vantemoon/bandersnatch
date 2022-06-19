@@ -630,9 +630,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -180.0309
-    y: -9.371133
-    width: 88
+    x: -159
+    y: 3
+    width: 86.49484
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -660,11 +660,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 329.93967, y: 87.89689}
+  scrollPos: {x: 272.7773, y: 95.597916}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 342
-  zoom: 1
+  blockViewHeight: 506
+  zoom: 0.80833334
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -672,14 +672,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-<<<<<<< HEAD
-  - {fileID: 116296248}
-  selectedCommands:
-  - {fileID: 116296250}
-=======
   - {fileID: 116296280}
   selectedCommands: []
->>>>>>> e0768ca6fc0da8beac7bdd4d5489c91edf912605
   variables:
   - {fileID: 116296231}
   - {fileID: 116296246}
@@ -722,10 +716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: 'Hi there! This is a game where you can make your own decision on the
-    desitny...
-
-'
+  storyText: hi there
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -791,7 +782,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: But first, would you tell us your name?
+  storyText: my name is...
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -820,7 +811,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -47
     y: 3.25
-    width: 83
+    width: 82.78351
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -876,7 +867,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 7
   indentLevel: 0
-  storyText: Nice work {$Name}! Let's begin!
+  storyText: my name is {$Name}
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -939,7 +930,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 14
   indentLevel: 0
-  storyText: '{$Name}, you are currently a university student.'
+  storyText: i'm currently a university student
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -968,7 +959,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -169.48416
     y: 53.25
-    width: 100
+    width: 98.86598
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1018,7 +1009,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 15
   indentLevel: 0
-  storyText: and the summer break has just started!
+  storyText: and the summer break has just started
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1046,8 +1037,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -179.41551
-    y: 130.57736
-    width: 119
+    y: 131.57736
+    width: 118.04124
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1095,7 +1086,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: You may what Michael has been doing...
+  storyText: i wonder what michael has been doing
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1122,7 +1113,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 16
   indentLevel: 0
-  storyText: emm...seems like you haven't got ant plans yet.
+  storyText: emm...i haven't got ant plans yet
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1149,7 +1140,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 20
   indentLevel: 0
-  storyText: Oh Michael is your hall roommate!
+  storyText: oh michael is my hall roommate
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1176,9 +1167,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -9.651459
-    y: 60.3608
-    width: 105
+    x: -16.651459
+    y: 52.3608
+    width: 104.43299
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1205,8 +1196,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  text: You two get along so well that he always takes your adivce whenever he has
-    a problem.
+  text: we get along quite well and he's my best mate
   description: 
   targetBlock: {fileID: 116296244}
   hideIfVisited: 0
@@ -1278,7 +1268,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 10
+        integerVal: 50
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -1399,8 +1389,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -17.218369
-    y: 132.57736
-    width: 138
+    y: 131.57736
+    width: 137.21649
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1427,7 +1417,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  text: You still seem to have so many questions about him because he is too quiet!
+  text: we're not really close cause he's just too quiet
   description: 
   targetBlock: {fileID: 116296248}
   hideIfVisited: 0
@@ -1484,7 +1474,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 5
+        integerVal: 20
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -1604,9 +1594,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 138.1456
-    y: 57.643173
-    width: 101
+    x: 136.1456
+    y: 51.643173
+    width: 100.72165
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1654,7 +1644,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 276.04834
     y: 6.022724
-    width: 92
+    width: 92.06186
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1703,7 +1693,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 36
   indentLevel: 1
-  storyText: You don't even have his number...
+  storyText: i don't think i have his number...
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1744,7 +1734,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 34
   indentLevel: 1
-  storyText: Just now you rememer he gave you his number last time!
+  storyText: i rememer he gave me his number last time
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1771,7 +1761,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 33
   indentLevel: 1
-  storyText: Maybe you should just text him.
+  storyText: i should just text him
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2389,7 +2379,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 276.04828
     y: 100.913246
-    width: 93
+    width: 92.68041
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2438,7 +2428,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 41
   indentLevel: 0
-  storyText: Come on! Send him a message!
+  storyText: lemme send him a message
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2465,7 +2455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 42
   indentLevel: 0
-  storyText: Maybe you should ask him next time...
+  storyText: maybe i should ask him next time
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2515,7 +2505,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 408.65155
     y: 55.2928
-    width: 115
+    width: 114.329895
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3377,7 +3367,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 5c7afa72e767e450da5550442049d015, type: 3}
-    m_FontSize: 70
+    m_FontSize: 100
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
