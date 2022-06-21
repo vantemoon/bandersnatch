@@ -632,7 +632,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -211
     y: -25
-    width: 88.422806
+    width: 89.393936
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -660,11 +660,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 294.99377, y: 130.70343}
+  scrollPos: {x: 286.31058, y: 156.93141}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 435
-  zoom: 0.98899585
+  zoom: 0.825
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -672,7 +672,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 116296222}
+  - {fileID: 116296253}
   selectedCommands: []
   variables:
   - {fileID: 116296231}
@@ -811,7 +811,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -47
     y: 3.25
-    width: 83.36717
+    width: 83.93939
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -959,7 +959,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -214.48416
     y: 41.25
-    width: 100.55633
+    width: 101.51515
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1038,7 +1038,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -224.41551
     y: 131.57736
-    width: 119.76774
+    width: 120.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1086,7 +1086,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: Let us check what Michael has been doing
+  storyText: Let us check what Michael has been doing.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1113,7 +1113,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 16
   indentLevel: 0
-  storyText: emm...it seems that you haven't got ant plans yet...
+  storyText: Emm...It seems that you haven't got ant plans yet...
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1169,7 +1169,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -33.65146
     y: 80.3608
-    width: 105.61196
+    width: 106.36363
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1390,7 +1390,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -47.21837
     y: 177.57736
-    width: 138.97914
+    width: 140.30304
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1417,7 +1417,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  text: you two are not really close cause he's just too quiet...
+  text: You two are not really close cause he's kinda quiet...
   description: 
   targetBlock: {fileID: 116296248}
   hideIfVisited: 0
@@ -1596,7 +1596,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 149.1456
     y: 126.64317
-    width: 101.56746
+    width: 102.121216
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1644,7 +1644,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 293.04834
     y: 91.02272
-    width: 92.467316
+    width: 92.42424
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2379,7 +2379,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 292.04828
     y: 173.91324
-    width: 93.47844
+    width: 93.63637
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2455,7 +2455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 42
   indentLevel: 0
-  storyText: Maybe you should ask him next time...
+  storyText: Maybe you should ask him next time.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2505,7 +2505,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 440.65155
     y: 136.2928
-    width: 115.72323
+    width: 116.666664
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2732,7 +2732,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -69.334015
     y: -76.28865
-    width: 125.834496
+    width: 126.969696
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4978,8 +4978,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000018477, y: 191}
-  m_SizeDelta: {x: 1300, y: 0}
+  m_AnchoredPosition: {x: -0.000019073, y: 191}
+  m_SizeDelta: {x: 1390, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &614513594
 MonoBehaviour:
@@ -7100,8 +7100,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1214850385}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -948.19, y: -533.9, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -948.1199, y: -533.8298, z: 0}
+  m_LocalScale: {x: 0.9298, y: 0.9298, z: 0.9298}
   m_Children: []
   m_Father: {fileID: 583980331}
   m_RootOrder: 3
