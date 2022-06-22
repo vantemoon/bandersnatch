@@ -595,6 +595,7 @@ GameObject:
   - component: {fileID: 116296280}
   - component: {fileID: 116296279}
   - component: {fileID: 116296281}
+  - component: {fileID: 116296282}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -633,7 +634,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -211
     y: -25
-    width: 86.64596
+    width: 88.64732
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -662,11 +663,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 292.72495, y: 162.66826}
+  scrollPos: {x: 324.18753, y: 181.6946}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 435
-  zoom: 0.8050001
+  zoom: 0.7245003
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -674,7 +675,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 116296269}
+  - {fileID: 116296280}
   selectedCommands: []
   variables:
   - {fileID: 116296231}
@@ -813,7 +814,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -47
     y: 3.25
-    width: 82.29813
+    width: 83.12628
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -961,7 +962,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -214.48416
     y: 41.25
-    width: 99.06831
+    width: 99.68942
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1040,7 +1041,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -224.41551
     y: 131.57736
-    width: 118.32297
+    width: 117.63282
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1171,7 +1172,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -33.65146
     y: 80.3608
-    width: 104.03726
+    width: 105.210464
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1392,7 +1393,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -47.21837
     y: 177.57736
-    width: 136.33539
+    width: 138.33675
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1598,7 +1599,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 149.1456
     y: 126.64317
-    width: 100.93167
+    width: 99.68942
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1646,7 +1647,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 293.04834
     y: 91.02272
-    width: 92.23602
+    width: 91.40785
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2381,7 +2382,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 292.04828
     y: 173.91324
-    width: 92.85713
+    width: 92.78812
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2507,7 +2508,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 440.65155
     y: 136.2928
-    width: 113.97514
+    width: 114.8723
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2733,8 +2734,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -69.334015
-    y: -76.28865
-    width: 123.91303
+    y: -77.668915
+    width: 124.534134
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2742,11 +2743,12 @@ MonoBehaviour:
   blockName: Setting Menu
   description: 
   eventHandler: {fileID: 116296279}
-  commandList: []
+  commandList:
+  - {fileID: 116296282}
   suppressAllAutoSelections: 0
 --- !u!114 &116296281
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2771,6 +2773,25 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &116296282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116296220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 59
+  indentLevel: 0
+  _sceneName:
+    stringRef: {fileID: 0}
+    stringVal: Menu
+  loadingImage: {fileID: 0}
+  sceneNameOLD: 
 --- !u!1 &164255686
 GameObject:
   m_ObjectHideFlags: 0
@@ -7023,7 +7044,7 @@ GameObject:
   - component: {fileID: 1214850387}
   - component: {fileID: 1214850386}
   m_Layer: 0
-  m_Name: SettingsButton
+  m_Name: Settings Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7129,8 +7150,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1214850385}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -947.54, y: -533.54, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -929.795, y: -445.354, z: 0}
+  m_LocalScale: {x: 1.5, y: 1.4, z: 1}
   m_Children: []
   m_Father: {fileID: 583980331}
   m_RootOrder: 3
