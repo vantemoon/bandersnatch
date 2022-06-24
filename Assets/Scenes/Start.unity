@@ -609,6 +609,7 @@ GameObject:
   - component: {fileID: 116296277}
   - component: {fileID: 116296274}
   - component: {fileID: 116296281}
+  - component: {fileID: 116296279}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -647,7 +648,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -211
     y: -25
-    width: 88.4615
+    width: 85.776245
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -676,11 +677,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 406.34384, y: 213.69682}
+  scrollPos: {x: 322.76013, y: 109.40825}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 435
-  zoom: 0.62400067
+  zoom: 0.8664968
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -688,9 +689,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 116296239}
+  - {fileID: 116296236}
   selectedCommands:
-  - {fileID: 116296243}
+  - {fileID: 116296241}
   variables:
   - {fileID: 116296231}
   - {fileID: 116296246}
@@ -826,9 +827,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -47
-    y: 3.25
-    width: 82.85252
+    x: -45.84593
+    y: 4.4040723
+    width: 83.468094
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -976,7 +977,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -214.48416
     y: 41.25
-    width: 101.282
+    width: 99.62511
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1055,7 +1056,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -224.41551
     y: 131.57736
-    width: 120.51275
+    width: 119.24434
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1065,6 +1066,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 116296243}
+  - {fileID: 116296279}
   - {fileID: 116296245}
   - {fileID: 116296249}
   suppressAllAutoSelections: 0
@@ -1103,7 +1105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: Let us check what Michael has been doing.
+  storyText: Let us check out what Anya has been doing.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1157,7 +1159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 20
   indentLevel: 0
-  storyText: Oh Michael is your hall roommate.
+  storyText: Oh Anya is your hall roommate and your friend...
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1184,9 +1186,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -33.65146
+    x: -29.613815
     y: 80.3608
-    width: 106.08968
+    width: 105.39548
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1213,7 +1215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  text: You guys get along quite well and he is your best mate.
+  text: You two get along well and you regards her as your best friend.
   description: 
   targetBlock: {fileID: 116296244}
   hideIfVisited: 0
@@ -1407,7 +1409,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -47.21837
     y: 177.57736
-    width: 139.7435
+    width: 138.86357
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1434,7 +1436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  text: You two are not really close cause he's kinda quiet...
+  text: You two are not really close cause Anya is too quiet...
   description: 
   targetBlock: {fileID: 116296248}
   hideIfVisited: 0
@@ -1613,7 +1615,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 149.1456
     y: 126.64317
-    width: 101.282
+    width: 100.77918
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1661,7 +1663,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 293.04834
     y: 91.02272
-    width: 91.666626
+    width: 91.5466
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1710,7 +1712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 36
   indentLevel: 1
-  storyText: It seems that you don't have his number...
+  storyText: It seems that you don't have her number...
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1751,7 +1753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 34
   indentLevel: 1
-  storyText: Michael gave you his number last time.
+  storyText: It seems Anya gave you her number last time.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1778,7 +1780,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 33
   indentLevel: 1
-  storyText: You should just text him!
+  storyText: You should just text her!
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2396,7 +2398,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 292.04828
     y: 173.91324
-    width: 93.26918
+    width: 92.700676
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2445,7 +2447,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 41
   indentLevel: 0
-  storyText: Let us send him a message!
+  storyText: Let us send her a message!
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2472,7 +2474,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 42
   indentLevel: 0
-  storyText: Maybe you should ask him next time.
+  storyText: Maybe you should ask her next time.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2522,7 +2524,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 440.65155
     y: 136.2928
-    width: 115.705055
+    width: 114.62805
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2717,6 +2719,33 @@ MonoBehaviour:
     floatRef: {fileID: 0}
     floatVal: 2
   durationOLD: 0
+--- !u!114 &116296279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116296220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 59
+  indentLevel: 0
+  storyText: And you seem to be her best friend... Let's say you are her ONLY friend.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!114 &116296281
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2793,7 +2822,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 140
     y: 204
-    width: 78.28706
+    width: 78.32863
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2904,7 +2933,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 133.53851
     y: 112.49999
-    width: 122.812996
+    width: 123.321144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2929,11 +2958,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 153.59225, y: 28.449863}
+  scrollPos: {x: 282.09927, y: 128.3741}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.9544999
+  zoom: 0.60009974
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -3139,7 +3168,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 402.27072
     y: 203.22685
-    width: 78.28706
+    width: 78.32863
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3257,7 +3286,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 232.99759
     y: 204.13263
-    width: 77.239395
+    width: 76.66223
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3355,7 +3384,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -101.2088
     y: 23.933588
-    width: 86.66841
+    width: 84.99419
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5515,7 +5544,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -0.000019073, y: 191}
-  m_SizeDelta: {x: 1390, y: 0}
+  m_SizeDelta: {x: 1400, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &614513594
 MonoBehaviour:
@@ -10347,7 +10376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 121429353}
+  selectedFlowchart: {fileID: 116296223}
 --- !u!4 &1613379614
 Transform:
   m_ObjectHideFlags: 1
