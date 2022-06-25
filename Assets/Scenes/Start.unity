@@ -648,7 +648,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -211
     y: -25
-    width: 88.08439
+    width: 88.62166
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -677,11 +677,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 322.76013, y: 109.40825}
+  scrollPos: {x: 342.47473, y: 115.59694}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 435
-  zoom: 0.8664968
+  zoom: 0.8414968
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -689,9 +689,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 116296236}
+  - {fileID: 116296239}
   selectedCommands:
-  - {fileID: 116296241}
+  - {fileID: 116296249}
   variables:
   - {fileID: 116296231}
   - {fileID: 116296246}
@@ -829,7 +829,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -45.84593
     y: 4.4040723
-    width: 82.89107
+    width: 83.27404
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -870,7 +870,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scope: 2
   key: Name
-  value: Name
+  value: Michael
 --- !u!114 &116296232
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -977,7 +977,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -214.48416
     y: 41.25
-    width: 99.62511
+    width: 100.50524
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1056,7 +1056,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -224.41551
     y: 131.57736
-    width: 118.09027
+    width: 119.51898
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1188,7 +1188,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -29.613815
     y: 80.3608
-    width: 104.818436
+    width: 105.258675
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1215,7 +1215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  text: You two get along well and you regards her as your best friend.
+  text: You two get along well and maybe can be friends later
   description: 
   targetBlock: {fileID: 116296244}
   hideIfVisited: 0
@@ -1409,7 +1409,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -47.21837
     y: 177.57736
-    width: 137.7095
+    width: 138.53271
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1436,7 +1436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  text: You two are not really close cause Anya is too quiet...
+  text: You two are not really close cause she is too quiet
   description: 
   targetBlock: {fileID: 116296248}
   hideIfVisited: 0
@@ -1615,7 +1615,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 149.1456
     y: 126.64317
-    width: 100.20215
+    width: 101.6936
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1663,7 +1663,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 293.04834
     y: 91.02272
-    width: 91.5466
+    width: 91.59255
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2398,7 +2398,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 292.04828
     y: 173.91324
-    width: 92.700676
+    width: 92.780914
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2524,7 +2524,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 440.65155
     y: 136.2928
-    width: 114.62805
+    width: 115.359726
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
