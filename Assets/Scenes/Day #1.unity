@@ -4667,9 +4667,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 452010586}
+  - {fileID: 452010565}
   selectedCommands:
-  - {fileID: 452010608}
+  - {fileID: 452010593}
   variables:
   - {fileID: 452010512}
   - {fileID: 452010534}
@@ -8676,7 +8676,7 @@ MonoBehaviour:
   callMode: 0
 --- !u!114 &452010608
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -8694,7 +8694,7 @@ MonoBehaviour:
   durationOLD: 0
 --- !u!114 &452010609
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11591,7 +11591,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 248.73297
     y: 208.90297
-    width: 84.99419
+    width: 86.66057
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12318,7 +12318,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 133.53851
     y: 112.49999
-    width: 123.321144
+    width: 122.48795
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12355,9 +12355,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 771150202}
+  - {fileID: 771150208}
   selectedCommands:
-  - {fileID: 771150200}
+  - {fileID: 771150207}
   variables: []
   description: 
   stepPause: 0
