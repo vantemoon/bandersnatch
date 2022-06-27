@@ -649,7 +649,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -211
     y: -25
-    width: 89.030304
+    width: 87.42882
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -678,19 +678,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 345.5866, y: 113.05274}
+  scrollPos: {x: 311.79965, y: 139.55302}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 435
-  zoom: 0.84549683
+  zoom: 0.78816265
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 116296269}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 116296231}
@@ -829,7 +828,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -45.84593
     y: 4.4040723
-    width: 83.11662
+    width: 82.98811
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -977,7 +976,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -214.48416
     y: 41.25
-    width: 100.857666
+    width: 100.11656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1056,7 +1055,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -224.41551
     y: 131.57736
-    width: 119.781456
+    width: 119.14816
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1188,13 +1187,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: -29.613815
     y: 80.3608
-    width: 105.58862
+    width: 105.19165
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 22
   blockName: Get Along
-  description: Set relationship with Michael to be 20
+  description: Set relationship with Anya to be 20
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 116296247}
@@ -1407,15 +1406,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -47.21837
-    y: 177.57736
-    width: 138.70523
+    x: -30.724316
+    y: 173.77106
+    width: 104.55727
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 24
-  blockName: Don't Get Along
-  description: Set relationship with Michael to be 5
+  blockName: Not Close
+  description: Set relationship with Anya to be 5
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 116296250}
@@ -1615,7 +1614,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 149.1456
     y: 126.64317
-    width: 101.449036
+    width: 100.11656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1663,13 +1662,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 293.04834
     y: 91.02272
-    width: 92.578514
+    width: 91.86953
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 38
   blockName: Text #1
-  description: text Michael
+  description: 
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 116296266}
@@ -2398,13 +2397,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 292.04828
     y: 173.91324
-    width: 93.76125
+    width: 93.138306
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 39
   blockName: Text #2
-  description: Michael texts back
+  description: 
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 116296267}
@@ -2524,7 +2523,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 440.65155
     y: 136.2928
-    width: 115.64188
+    width: 114.70746
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2750,7 +2749,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &116296280
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}

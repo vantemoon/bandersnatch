@@ -4628,7 +4628,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -141
     y: -6
-    width: 100.34665
+    width: 99.7103
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4656,19 +4656,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 363.35785, y: 282.7482}
+  scrollPos: {x: -101.39278, y: 131.36465}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.38731477
+  zoom: 0.7443126
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 452010528}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 452010512}
@@ -4758,7 +4757,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -24
     y: -6
-    width: 91.310074
+    width: 90.9774
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4905,7 +4904,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 88.5
     y: -5.5
-    width: 91.310074
+    width: 91.64917
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4983,7 +4982,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 201.36304
     y: -6.712305
-    width: 92.60101
+    width: 92.99269
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5187,7 +5186,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 316.80222
     y: -4.779793
-    width: 92.60101
+    width: 92.99269
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5262,15 +5261,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 430.16223
-    y: -35.754623
-    width: 100.34665
+    x: 432.8493
+    y: -58.594482
+    width: 100.38206
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 25
   blockName: Chat1.5.1
-  description: 
+  description: You're a nice person
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 452010540}
@@ -5678,14 +5677,14 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 430.38824
-    y: 21.828394
-    width: 100.34665
+    y: 44.668255
+    width: 101.05382
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 33
   blockName: Chat1.5.2
-  description: 
+  description: You're my best friend
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 452010538}
@@ -5792,7 +5791,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 695.44073
     y: -3.3733978
-    width: 87.437256
+    width: 88.29036
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5876,7 +5875,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 813.6002
     y: 25.67331
-    width: 100.34665
+    width: 101.05382
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5932,7 +5931,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 809.4002
     y: -36.23828
-    width: 100.34665
+    width: 100.38206
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6059,7 +6058,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 571.4615
     y: -3.3732681
-    width: 91.310074
+    width: 91.64917
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6137,7 +6136,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1051.7036
     y: -12.378941
-    width: 91.310074
+    width: 91.64917
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6262,7 +6261,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 936.7638
     y: -12.112127
-    width: 91.310074
+    width: 91.64917
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6344,7 +6343,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -144.93065
     y: 72.5167
-    width: 101.63759
+    width: 101.05382
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7642,7 +7641,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -18.989616
     y: 74.166145
-    width: 91.310074
+    width: 91.64917
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8039,7 +8038,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -134.4192
     y: 150.59427
-    width: 87.437256
+    width: 88.29036
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8320,7 +8319,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 99.64452
     y: 68.04431
-    width: 91.310074
+    width: 92.32093
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8624,7 +8623,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -13.038437
     y: 150.31027
-    width: 111.9651
+    width: 113.14551
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8716,7 +8715,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &452010610
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
