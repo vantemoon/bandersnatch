@@ -611,6 +611,9 @@ GameObject:
   - component: {fileID: 116296281}
   - component: {fileID: 116296279}
   - component: {fileID: 116296280}
+  - component: {fileID: 116296284}
+  - component: {fileID: 116296283}
+  - component: {fileID: 116296282}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -693,7 +696,10 @@ MonoBehaviour:
   selectedCommands: []
   variables:
   - {fileID: 116296231}
+  - {fileID: 116296284}
+  - {fileID: 116296283}
   - {fileID: 116296246}
+  - {fileID: 116296282}
   - {fileID: 116296252}
   description: 
   stepPause: 0
@@ -2792,6 +2798,51 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &116296282
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116296220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 2
+  key: Darkness
+  value: 0
+--- !u!114 &116296283
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116296220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 2
+  key: Pressure
+  value: 10
+--- !u!114 &116296284
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116296220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 2
+  key: Progress
+  value: 0
 --- !u!1 &121429348
 GameObject:
   m_ObjectHideFlags: 0
@@ -10407,7 +10458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 121429353}
+  selectedFlowchart: {fileID: 116296223}
 --- !u!4 &1613379614
 Transform:
   m_ObjectHideFlags: 1
