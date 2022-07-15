@@ -4688,7 +4688,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 452010510}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 452010628}
   variables:
   - {fileID: 452010512}
   - {fileID: 452010623}
@@ -10982,7 +10983,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 126
   indentLevel: 0
-  anyOrAllConditions: 0
+  anyOrAllConditions: 1
   conditions:
   - compareOperator: 0
     anyVar:
