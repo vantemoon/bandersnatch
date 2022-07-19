@@ -30636,7 +30636,7 @@ GameObject:
   - component: {fileID: 1176759196}
   - component: {fileID: 1176759195}
   m_Layer: 5
-  m_Name: Day #4
+  m_Name: DayTag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
