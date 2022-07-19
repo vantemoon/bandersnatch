@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Day #6.unity
     guid: ae08dde67723b4534b5ce7070efe76ae
+  - enabled: 1
+    path: Assets/Scenes/Day #7.unity
+    guid: 5cbfae6b714144618b9b1d617bf4ad8f
   m_configObjects: {}
