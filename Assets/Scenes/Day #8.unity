@@ -14285,7 +14285,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 10
+        integerVal: 5
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -14341,7 +14341,7 @@ MonoBehaviour:
       vector4Data:
         vector4Ref: {fileID: 0}
         vector4Val: {x: 0, y: 0, z: 0, w: 0}
-  setOperator: 3
+  setOperator: 2
   variable: {fileID: 0}
   booleanData:
     booleanRef: {fileID: 0}
@@ -24004,9 +24004,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 647979494}
+  - {fileID: 647979417}
   selectedCommands:
-  - {fileID: 647979493}
+  - {fileID: 647979407}
   variables:
   - {fileID: 647979522}
   - {fileID: 647979520}
