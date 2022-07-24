@@ -9320,7 +9320,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    Maybe I don''t need to be like this.'
+    I have been taken some pills.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15418,7 +15418,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 163
   indentLevel: 1
-  storyText: 
+  storyText: "Anya:\nMaking game always give me a feeling of confusion. \n\t-- Scheodinger's
+    Game "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -16251,7 +16252,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I''ve been working so hard.'
+    I am not feeling well these days.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -18301,10 +18302,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: Fanfics for games have become the trend after the overwhelming success
-    of the visual novel "His Story". Many people didn't like the ending of the story
-    and some even perceived it as quite debatable. However, this has led to a new
-    trend of the fans rewriting the ending for the game.
+  storyText: 'In a dystopian 2045, people seek to escape from reality through the
+    virtual reality entertainment universe called the OASIS.
+
+    A pre-recorded
+    message left by his avatar Anorak announces a game, granting ownership of the
+    OASIS to the first to find the golden Easter egg within it, which gets locked
+    behind a gate requiring three keys which players can obtain by accomplishing
+    three challenges.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -18331,7 +18336,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Time To Write your Own Story - Fanfics For Games Are Trending
+  storyText: Film Watching
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -24742,7 +24747,7 @@ MonoBehaviour:
   scrollPos: {x: 370.37378, y: 3.0416033}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 400
+  blockViewHeight: 530
   zoom: 0.6866664
   scrollViewRect:
     serializedVersion: 2
@@ -24751,9 +24756,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 743823275}
+  - {fileID: 743823312}
   selectedCommands:
-  - {fileID: 743823418}
+  - {fileID: 743823307}
   variables:
   - {fileID: 743823415}
   - {fileID: 743823413}

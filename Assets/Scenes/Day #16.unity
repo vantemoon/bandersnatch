@@ -17338,7 +17338,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    Maybe I don''t need to be like this.'
+    Come on! Push me more to work!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -18869,7 +18869,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -10.598251
     y: 321.40842
-    width: 99.51458
+    width: 100.89677
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20130,7 +20130,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.272995
     y: 72.73399
-    width: 86.407776
+    width: 87.80902
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22175,7 +22175,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -153.37923
     y: 321.7274
-    width: 106.796135
+    width: 106.71354
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23436,7 +23436,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 163
   indentLevel: 1
-  storyText: 
+  storyText: 'Anya:
+
+    I love Horror Game!!
+
+    Is there anyone who wants to play
+    horror game with me?'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -24075,7 +24080,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -301.97537
     y: 401.08932
-    width: 103.883514
+    width: 103.80515
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24269,7 +24274,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I''ve been working so hard.'
+    I still have tons of summer work to finish.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -24756,7 +24761,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -165.50752
     y: 76.884125
-    width: 114.07769
+    width: 113.984505
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26319,10 +26324,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: Fanfics for games have become the trend after the overwhelming success
-    of the visual novel "His Story". Many people didn't like the ending of the story
-    and some even perceived it as quite debatable. However, this has led to a new
-    trend of the fans rewriting the ending for the game.
+  storyText: "Unlike most other video game genres, which are classified by their
+    gameplay, horror games are nearly always based on narrative or visual presentation,
+    and use a variety of gameplay types. \nHorror games is the only narrative-based
+    classification that has generally not followed this pattern, with the narrative
+    genre label used broadly for games designed to scare players."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -26349,7 +26355,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Time To Write your Own Story - Fanfics For Games Are Trending
+  storyText: 'Headline: New Hitting Horror Game??'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -26836,7 +26842,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 324.76938
-    width: 95.145645
+    width: 95.079994
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28880,7 +28886,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -302.29138
     y: 241.3212
-    width: 93.68933
+    width: 93.6258
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -31150,7 +31156,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 157.87303
-    width: 90.77672
+    width: 90.717415
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -31541,7 +31547,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -303.8367
     y: 77.5154
-    width: 103.883514
+    width: 103.80515
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -31589,7 +31595,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 124.61624
     y: 157.89734
-    width: 112.62138
+    width: 113.984505
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32240,7 +32246,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -13.591578
     y: 195.79501
-    width: 90.77672
+    width: 90.717415
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32518,7 +32524,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.913635
     y: 130.33061
-    width: 99.51458
+    width: 100.89677
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32626,7 +32632,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -142.19661
     y: 158.14038
-    width: 80.582535
+    width: 80.538055
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32757,11 +32763,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 370.37378, y: 3.0416033}
+  scrollPos: {x: 369.0205, y: 2.5693233}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 400
-  zoom: 0.6866664
+  blockViewHeight: 650
+  zoom: 0.6876665
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -32769,9 +32775,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1178727207}
+  - {fileID: 1178727244}
   selectedCommands:
-  - {fileID: 1178727198}
+  - {fileID: 1178727239}
   variables:
   - {fileID: 1178727347}
   - {fileID: 1178727345}
