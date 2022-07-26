@@ -9468,7 +9468,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 5
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -12683,7 +12683,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 10
+        integerVal: 5
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -12835,7 +12835,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 5
+        integerVal: 3
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -14298,7 +14298,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 5
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -15587,7 +15587,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 10
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -17444,7 +17444,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &647979437
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -17596,7 +17596,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &647979438
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -17900,7 +17900,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &647979440
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -18419,7 +18419,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -300.7461
-    y: 324.76938
+    y: 323.30988
     width: 95.24448
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -19729,7 +19729,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 5
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -21602,7 +21602,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 3
+        integerVal: 4
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -21754,7 +21754,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 10
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -21906,7 +21906,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 5
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -23269,7 +23269,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 3
+        integerVal: 4
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -23421,7 +23421,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 10
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -23573,7 +23573,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 5
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -23908,7 +23908,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 5
+        integerVal: 2
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -24097,7 +24097,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -19.913635
+    x: -18.454136
     y: 130.33061
     width: 99.62297
     height: 40
@@ -24341,7 +24341,7 @@ MonoBehaviour:
   scrollPos: {x: 386.11642, y: 2.8792024}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 400
+  blockViewHeight: 527
   zoom: 0.68516654
   scrollViewRect:
     serializedVersion: 2
@@ -24350,9 +24350,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 647979380}
-  selectedCommands:
-  - {fileID: 647979549}
+  - {fileID: 647979541}
+  selectedCommands: []
   variables:
   - {fileID: 647979522}
   - {fileID: 647979520}
@@ -24982,7 +24981,7 @@ MonoBehaviour:
     booleanVal: 0
 --- !u!114 &647979543
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -25134,7 +25133,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &647979544
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -25155,7 +25154,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &647979545
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -25182,7 +25181,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 481728348}
 --- !u!114 &647979546
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -25683,7 +25682,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &647979549
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -25835,7 +25834,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &647979550
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
