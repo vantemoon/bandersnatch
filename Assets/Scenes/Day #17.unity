@@ -6019,7 +6019,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    Maybe I don''t need to be like this.'
+    Please help me more to make the game come true!!!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7550,7 +7550,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -10.598251
     y: 321.40842
-    width: 99.51458
+    width: 99.51517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8811,7 +8811,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.272995
     y: 72.73399
-    width: 86.407776
+    width: 86.7827
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10856,7 +10856,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -153.37923
     y: 321.7274
-    width: 106.796135
+    width: 105.17404
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11560,7 +11560,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 10
+        integerVal: 5
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -11616,7 +11616,7 @@ MonoBehaviour:
       vector4Data:
         vector4Ref: {fileID: 0}
         vector4Val: {x: 0, y: 0, z: 0, w: 0}
-  setOperator: 3
+  setOperator: 2
   variable: {fileID: 0}
   booleanData:
     booleanRef: {fileID: 0}
@@ -12117,7 +12117,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 163
   indentLevel: 1
-  storyText: 
+  storyText: 'Anya:
+
+    How come the game commenter are so critisized? Those games
+    are babies of their designers. They are everything to them.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -12756,7 +12759,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -301.97537
     y: 401.08932
-    width: 103.883514
+    width: 102.344604
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12950,7 +12953,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I''ve been working so hard.'
+    I am worried about the progress of the game!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -13435,9 +13438,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -165.50752
+    x: -164.05121
     y: 76.884125
-    width: 114.07769
+    width: 112.247635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15000,10 +15003,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: Fanfics for games have become the trend after the overwhelming success
-    of the visual novel "His Story". Many people didn't like the ending of the story
-    and some even perceived it as quite debatable. However, this has led to a new
-    trend of the fans rewriting the ending for the game.
+  storyText: 'Nowadays, some game streamers have made so much money just by complaining
+    the game spitefully, and they have gained so much popularity on the Internet.
+
+    They
+    tend to exaggerate the truth and give a wrong impression to the public.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15030,7 +15034,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Time To Write your Own Story - Fanfics For Games Are Trending
+  storyText: Game Streamer -- Critisized Game Evaluation
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15517,7 +15521,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 324.76938
-    width: 95.145645
+    width: 93.85629
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17561,7 +17565,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -302.29138
     y: 241.3212
-    width: 93.68933
+    width: 92.441574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19829,9 +19833,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -300.7461
+    x: -302.16083
     y: 157.87303
-    width: 90.77672
+    width: 89.61214
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20222,7 +20226,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -303.8367
     y: 77.5154
-    width: 103.883514
+    width: 102.344604
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20270,7 +20274,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 124.61624
     y: 157.89734
-    width: 112.62138
+    width: 112.247635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20921,7 +20925,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -13.591578
     y: 195.79501
-    width: 90.77672
+    width: 89.61214
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21199,7 +21203,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.913635
     y: 130.33061
-    width: 99.51458
+    width: 99.51517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21307,7 +21311,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -142.19661
     y: 158.14038
-    width: 80.582535
+    width: 79.7091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21438,11 +21442,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 370.37378, y: 3.0416033}
+  scrollPos: {x: 464.13782, y: -51.070023}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 400
-  zoom: 0.6866664
+  blockViewHeight: 540
+  zoom: 0.7068541
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -21450,9 +21454,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 343553947}
+  - {fileID: 343553984}
   selectedCommands:
-  - {fileID: 343553938}
+  - {fileID: 343553974}
   variables:
   - {fileID: 343554087}
   - {fileID: 343554085}
@@ -21490,7 +21494,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &343554090
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -21642,7 +21646,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &343554091
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}

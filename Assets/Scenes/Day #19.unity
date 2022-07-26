@@ -20113,7 +20113,6 @@ GameObject:
   - component: {fileID: 1623206077}
   - component: {fileID: 1623206076}
   - component: {fileID: 1623206075}
-  - component: {fileID: 1623206074}
   - component: {fileID: 1623206073}
   - component: {fileID: 1623206072}
   - component: {fileID: 1623206071}
@@ -21431,7 +21430,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    Maybe I don''t need to be like this.'
+    This will attract more potential players!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -22962,7 +22961,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -10.598251
     y: 321.40842
-    width: 99
+    width: 102.00326
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24223,7 +24222,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.272995
     y: 72.73399
-    width: 86
+    width: 88.237686
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26268,7 +26267,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -153.37923
     y: 321.7274
-    width: 106
+    width: 109.650795
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27529,7 +27528,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 163
   indentLevel: 1
-  storyText: 
+  storyText: 'Anya:
+
+    Please come and watch my new-released mv for my game!s'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -28168,7 +28169,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -301.97537
     y: 401.08932
-    width: 102
+    width: 105.06227
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28362,7 +28363,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I''ve been working so hard.'
+    I need to make a commercial video about my game!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -28849,7 +28850,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -165.50752
     y: 76.884125
-    width: 112
+    width: 115.76883
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -30398,36 +30399,6 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
---- !u!114 &1623206074
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1623205980}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 137
-  indentLevel: 1
-  storyText: Fanfics for games have become the trend after the overwhelming success
-    of the visual novel "His Story". Many people didn't like the ending of the story
-    and some even perceived it as quite debatable. However, this has led to a new
-    trend of the fans rewriting the ending for the game.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 0
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 584221116}
 --- !u!114 &1623206075
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -30442,7 +30413,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Time To Write your Own Story - Fanfics For Games Are Trending
+  storyText: Anya was asked out by her online friends!
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -30929,7 +30900,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 324.76938
-    width: 93
+    width: 97.414734
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -30942,7 +30913,6 @@ MonoBehaviour:
   - {fileID: 1623206076}
   - {fileID: 1623206073}
   - {fileID: 1623206075}
-  - {fileID: 1623206074}
   - {fileID: 1623206072}
   - {fileID: 1623206071}
   - {fileID: 1623206070}
@@ -32973,7 +32943,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -302.29138
     y: 241.3212
-    width: 93
+    width: 95.88522
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35243,7 +35213,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 157.87303
-    width: 90
+    width: 92.82622
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35634,7 +35604,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -303.8367
     y: 77.5154
-    width: 102
+    width: 106.59178
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35682,7 +35652,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 124.61624
     y: 157.89734
-    width: 112
+    width: 115.76883
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -36333,7 +36303,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -13.591578
     y: 195.79501
-    width: 90
+    width: 92.82622
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -36611,7 +36581,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.913635
     y: 130.33061
-    width: 99
+    width: 102.00326
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -36719,7 +36689,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -142.19661
     y: 158.14038
-    width: 80
+    width: 82.11966
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -36850,11 +36820,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 271.5691, y: 75.76601}
+  scrollPos: {x: 516.18945, y: -34.3683}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 1
+  zoom: 0.6538052
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -36862,9 +36832,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1623206016}
+  - {fileID: 1623206053}
   selectedCommands:
-  - {fileID: 1623206007}
+  - {fileID: 1623206048}
   variables:
   - {fileID: 1623206156}
   - {fileID: 1623206154}
@@ -36902,7 +36872,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1623206159
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -37054,7 +37024,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1623206160
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}

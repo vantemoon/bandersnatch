@@ -23438,10 +23438,10 @@ MonoBehaviour:
   indentLevel: 1
   storyText: 'Anya:
 
-    I love Horror Game!!
+    I love Horror Game so much!!!
 
-    Is there anyone who wants to play
-    horror game with me?'
+    Is there anyone who wants
+    to play horror game with me?'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -32766,7 +32766,7 @@ MonoBehaviour:
   scrollPos: {x: 369.0205, y: 2.5693233}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 650
+  blockViewHeight: 540
   zoom: 0.6876665
   scrollViewRect:
     serializedVersion: 2

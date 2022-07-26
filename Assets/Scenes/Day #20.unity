@@ -20616,7 +20616,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    Maybe I don''t need to be like this.'
+    Thank you so much for your help!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -26714,7 +26714,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 163
   indentLevel: 1
-  storyText: 
+  storyText: 'Anya:
+
+    Finally done!!!
+
+    People come and play my game!!!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -27547,7 +27551,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I''ve been working so hard.'
+    I am finally achieving it!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -28032,8 +28036,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -165.50752
-    y: 76.884125
+    x: -163.1738
+    y: 79.21785
     width: 115.344215
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -29597,10 +29601,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: Fanfics for games have become the trend after the overwhelming success
-    of the visual novel "His Story". Many people didn't like the ending of the story
-    and some even perceived it as quite debatable. However, this has led to a new
-    trend of the fans rewriting the ending for the game.
+  storyText: I've found that people love guessing games about themselves. Try something
+    like post a link to your social profile and I'll guess your favorite movie/type
+    of dog/video game etc or you can try something like answer these three questions
+    and I'll tell you the year you were born. As long as the game is about your readers
+    (personal) and allows for you to communicate with them it will be appreciated.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -29627,7 +29632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Time To Write your Own Story - Fanfics For Games Are Trending
+  storyText: Online Review for Bandersnatch
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -36035,7 +36040,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1169.0568, y: -14.06183}
+  scrollPos: {x: 770.3719, y: 83.37305}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -36047,9 +36052,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1465790421}
+  - {fileID: 1465790458}
   selectedCommands:
-  - {fileID: 1465790412}
+  - {fileID: 1465790453}
   variables:
   - {fileID: 1465790561}
   - {fileID: 1465790559}
