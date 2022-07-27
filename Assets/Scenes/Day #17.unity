@@ -6027,7 +6027,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    Please help me more to make the game come true!!!'
+    Please push me more to make it to the end!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -12959,7 +12959,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I am worried about the progress of the game!'
+    I''m worried about the progress of the game!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15009,11 +15009,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: 'Nowadays, some game streamers have made so much money just by complaining
-    the game spitefully, and they have gained so much popularity on the Internet.
-
-    They
-    tend to exaggerate the truth and give a wrong impression to the public.'
+  storyText: These days, some game streamers gained much popularity on the internet
+    by commenting on different games. The fans love to hear their so-called "tell
+    the unspoken truth", while other people criticise them for exaggerating the issues
+    and giving a wrong impression to the public.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -21467,9 +21466,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 343554057}
+  - {fileID: 343553966}
   selectedCommands:
-  - {fileID: 343554093}
+  - {fileID: 343553961}
   variables:
   - {fileID: 343554087}
   - {fileID: 343554085}

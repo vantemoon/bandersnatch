@@ -28682,11 +28682,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: I've found that people love guessing games about themselves. Try something
-    like post a link to your social profile and I'll guess your favorite movie/type
-    of dog/video game etc or you can try something like answer these three questions
-    and I'll tell you the year you were born. As long as the game is about your readers
-    (personal) and allows for you to communicate with them it will be appreciated.
+  storyText: I've found that people love doing guessing games about themselves with
+    each other. Those stuff like posting a link on your socials and asking for anonymous
+    questions or guessing your favourite movie/food/video game etc.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -28713,7 +28711,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Online Review for Bandersnatch
+  storyText: From Anonymous User
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -31836,9 +31834,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1465790554}
+  - {fileID: 1465790440}
   selectedCommands:
-  - {fileID: 1465790398}
+  - {fileID: 1465790435}
   variables:
   - {fileID: 1465790561}
   - {fileID: 1465790559}

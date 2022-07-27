@@ -17346,7 +17346,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    Come on! Push me more to work!'
+    I need you to push me thorugh this!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -21544,7 +21544,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 1
-  storyText: You and Anya went to DIY shop.
+  storyText: You and Anya went to a DIY shop.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -24278,7 +24278,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I still have tons of summer work to finish.'
+    I still have tons of  work to do.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -32786,9 +32786,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1178727317}
+  - {fileID: 1178727226}
   selectedCommands:
-  - {fileID: 1178727353}
+  - {fileID: 1178727221}
   variables:
   - {fileID: 1178727347}
   - {fileID: 1178727345}

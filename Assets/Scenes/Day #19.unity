@@ -25635,7 +25635,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 1
-  storyText: You and Anya went to PC cafe.
+  storyText: You and Anya went for cafe-hopping.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -28369,7 +28369,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I need to make a commercial video about my game!'
+    I need to make a trailer video for my game!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -36998,9 +36998,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1623206126}
+  - {fileID: 1623206035}
   selectedCommands:
-  - {fileID: 1623206162}
+  - {fileID: 1623206030}
   variables:
   - {fileID: 1623206156}
   - {fileID: 1623206154}
