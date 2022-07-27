@@ -41,4 +41,52 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Day #10.unity
     guid: 63d68bb9966ba4ea88f3a462d3584df6
+  - enabled: 1
+    path: Assets/Scenes/Day #11.unity
+    guid: 21233cc03ed664aa7873f4c7980a3423
+  - enabled: 1
+    path: Assets/Scenes/Day #12.unity
+    guid: 62143b7cf7803444886b56e8d4c6319c
+  - enabled: 1
+    path: Assets/Scenes/Day #13.unity
+    guid: 6936dbf92079843ac9176d20265ccd17
+  - enabled: 1
+    path: Assets/Scenes/Day #14.unity
+    guid: 78814cf71cd084a82b7a895000f9fcc1
+  - enabled: 1
+    path: Assets/Scenes/Day #15.unity
+    guid: 90461ad686f04451a9583d6415ba4626
+  - enabled: 1
+    path: Assets/Scenes/Day #16.unity
+    guid: 8c1fff71bf4c640ea8777ad2a3ff5661
+  - enabled: 1
+    path: Assets/Scenes/Day #17.unity
+    guid: 61df73e7cebf946f88306df2422f12c6
+  - enabled: 1
+    path: Assets/Scenes/Day #18.unity
+    guid: 2626f90cfff9744efb9826ea3f5f7a50
+  - enabled: 1
+    path: Assets/Scenes/Day #19.unity
+    guid: f0629e5c25c7047b096c1b652524d562
+  - enabled: 1
+    path: Assets/Scenes/Day #20.unity
+    guid: 53e0c7e09cbd643409ddd8f64e525b46
+  - enabled: 1
+    path: Assets/Scenes/Ending #1.unity
+    guid: 767106317ad694f28b3747b7472d271b
+  - enabled: 1
+    path: Assets/Scenes/Ending #2.unity
+    guid: 7f2d2b3bf9baa4b65b18b73c05078b42
+  - enabled: 1
+    path: Assets/Scenes/Ending #3.unity
+    guid: af0d0b19b75fc48eda8c781d8461dc89
+  - enabled: 1
+    path: Assets/Scenes/Ending #4.unity
+    guid: 39d6be0cdf8b64eea92f1400bfbecac0
+  - enabled: 1
+    path: Assets/Scenes/Ending #5.unity
+    guid: 96c0dcec75cb64bc793964ce5abd1e08
+  - enabled: 1
+    path: Assets/Scenes/Ending #6.unity
+    guid: 1bf5d43d04f0642c187d8d98f54747ce
   m_configObjects: {}

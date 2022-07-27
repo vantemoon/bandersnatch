@@ -4320,16 +4320,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Anya [2 min ago]
+  m_Text: 'Anya [7 min ago]
 
 
-    I finally got in!
+    I really need to work hard.
 
-    A new jounrey:)
+    Hope that I can
+    be like him one day.
 
 
-    Like(1)
-    Comment(0) Share(0)'
+    Like(1) Comment(0) Share(0)'
 --- !u!222 &384233734
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10379,8 +10379,6 @@ GameObject:
   - component: {fileID: 770797966}
   - component: {fileID: 770797965}
   - component: {fileID: 770797964}
-  - component: {fileID: 770797963}
-  - component: {fileID: 770797962}
   - component: {fileID: 770797961}
   - component: {fileID: 770797960}
   - component: {fileID: 770797959}
@@ -10626,11 +10624,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 284.48892, y: 27.162231}
+  scrollPos: {x: 318.937, y: 36.17828}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.68300015
+  zoom: 0.6455004
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -10638,8 +10636,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 770797965}
-  selectedCommands: []
+  - {fileID: 770797960}
+  selectedCommands:
+  - {fileID: 770797939}
   variables:
   - {fileID: 770797914}
   - {fileID: 770797942}
@@ -10731,7 +10730,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -219.9816
     y: 45.708195
-    width: 104.17276
+    width: 101.89772
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10881,7 +10880,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -217.40395
     y: 116.983284
-    width: 95.387985
+    width: 92.6026
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10992,7 +10991,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -81.40584
     y: 120.394936
-    width: 83.67496
+    width: 83.307495
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11360,7 +11359,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 49
   indentLevel: 3
-  storyText: Insert photos here
+  storyText: 
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11372,7 +11371,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 656052685}
+  setSayDialog: {fileID: 530645056}
 --- !u!114 &770797940
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -11490,7 +11489,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 157.32182
     y: 122.462875
-    width: 85.139084
+    width: 84.856674
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11602,7 +11601,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 32.43101
     y: 161.79015
-    width: 95.387985
+    width: 94.151794
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11633,7 +11632,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 32.431
     y: 74.086044
-    width: 93.92386
+    width: 93.3772
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11815,7 +11814,7 @@ MonoBehaviour:
   indentLevel: 3
   _targetGameObject:
     gameObjectRef: {fileID: 0}
-    gameObjectVal: {fileID: 1898832802}
+    gameObjectVal: {fileID: 1631291758}
   activeState:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -11834,7 +11833,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parentBlock: {fileID: 770797960}
   suppressBlockAutoSelect: 0
-  clickableObject: {fileID: 1508297753}
+  clickableObject: {fileID: 945912389}
   waitFrames: 1
 --- !u!114 &770797960
 MonoBehaviour:
@@ -11852,12 +11851,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: -217.4831
     y: 259.3798
-    width: 117.349915
+    width: 101.89772
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 47
-  blockName: PhotoBooth
+  blockName: Moments
   description: 'This is a placeholder '
   eventHandler: {fileID: 770797959}
   commandList:
@@ -11886,61 +11885,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 46
   indentLevel: 0
-  storyText: Now, let's click Photo Booth!
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 916052093}
---- !u!114 &770797962
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 770797911}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 45
-  indentLevel: 0
-  storyText: This helps Anya and you trace back to the time you've spent together.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 916052093}
---- !u!114 &770797963
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 770797911}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 44
-  indentLevel: 0
-  storyText: By clicking Photo Booth, we can check photos  from previous activities.
+  storyText: Let's click Moments!
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11967,7 +11912,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 43
   indentLevel: 0
-  storyText: Now let's try some more features.
+  storyText: Now we can check Moments again.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11996,7 +11941,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 274.955
     y: 123.841644
-    width: 83.67496
+    width: 83.307495
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12007,8 +11952,6 @@ MonoBehaviour:
   commandList:
   - {fileID: 770798001}
   - {fileID: 770797964}
-  - {fileID: 770797963}
-  - {fileID: 770797962}
   - {fileID: 770797961}
   - {fileID: 770798000}
   suppressAllAutoSelections: 0
@@ -12317,7 +12260,7 @@ MonoBehaviour:
   indentLevel: 3
   _targetGameObject:
     gameObjectRef: {fileID: 0}
-    gameObjectVal: {fileID: 1898832802}
+    gameObjectVal: {fileID: 1631291758}
   activeState:
     booleanRef: {fileID: 0}
     booleanVal: 0
@@ -12717,7 +12660,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -64.15559
     y: 261.67657
-    width: 80.7467
+    width: 80.20912
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12786,7 +12729,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 53.491417
     y: 221.50432
-    width: 99.780365
+    width: 98.79935
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13599,7 +13542,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 58.765915
     y: 295.44412
-    width: 90.9956
+    width: 90.278824
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13635,7 +13578,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 182.56812
     y: 258.3428
-    width: 112.95753
+    width: 111.96742
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14096,7 +14039,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scope: 0
-  key: PhotoSeen
+  key: MomentSeen
   value: 0
 --- !u!114 &770797999
 MonoBehaviour:

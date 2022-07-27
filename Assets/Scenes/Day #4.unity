@@ -2917,7 +2917,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 227208811}
+  - {fileID: 227208738}
   selectedCommands: []
   variables:
   - {fileID: 227208732}
@@ -2997,7 +2997,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -235.43495
     y: 81.25096
-    width: 107.17749
+    width: 101.768814
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3045,7 +3045,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -232.34427
     y: 149.24576
-    width: 110.268166
+    width: 106.40482
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3097,7 +3097,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: Let's click going out and take Anya to the beach.
+  storyText: Let's click Going Out and take Anya to the beach.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4383,7 +4383,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 39.635147
     y: 149.24574
-    width: 85.54277
+    width: 83.22476
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4589,7 +4589,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -94.80928
     y: 149.2458
-    width: 104.08682
+    width: 100.99614
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4621,7 +4621,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -224.6176
     y: 234.23923
-    width: 88.63344
+    width: 85.54277
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6846,7 +6846,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 159.48299
     y: 234.19739
-    width: 116.44952
+    width: 111.81351
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7497,7 +7497,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 14.046055
     y: 283.66138
-    width: 93.269455
+    width: 90.17878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7775,7 +7775,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 14.952908
     y: 206.63092
-    width: 102.54148
+    width: 98.67813
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7883,7 +7883,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -107.33011
     y: 234.44046
-    width: 82.45209
+    width: 80.13408
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
