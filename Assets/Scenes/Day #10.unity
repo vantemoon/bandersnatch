@@ -26748,6 +26748,9 @@ GameObject:
   - component: {fileID: 2031650712}
   - component: {fileID: 2031650711}
   - component: {fileID: 2031650713}
+  - component: {fileID: 2031650716}
+  - component: {fileID: 2031650715}
+  - component: {fileID: 2031650714}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -26954,7 +26957,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 1997422062}
+  setSayDialog: {fileID: 825409854}
 --- !u!114 &2031650703
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -28410,6 +28413,69 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &2031650714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2031650699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 232
+  indentLevel: 2
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 323222197}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2031650715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2031650699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 231
+  indentLevel: 2
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 1200196138}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2031650716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2031650699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 230
+  indentLevel: 2
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 1997422057}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
 --- !u!114 &2031650721
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -35866,6 +35932,9 @@ MonoBehaviour:
   - {fileID: 2031650706}
   - {fileID: 2031650704}
   - {fileID: 2031650703}
+  - {fileID: 2031650716}
+  - {fileID: 2031650715}
+  - {fileID: 2031650714}
   - {fileID: 2031650702}
   - {fileID: 2031650710}
   - {fileID: 2031650709}
@@ -43858,9 +43927,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2031650764}
+  - {fileID: 2031650788}
   selectedCommands:
-  - {fileID: 2031650759}
+  - {fileID: 2031650702}
   variables:
   - {fileID: 2031650885}
   - {fileID: 2031650883}
