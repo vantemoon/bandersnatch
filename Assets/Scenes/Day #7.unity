@@ -23023,8 +23023,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    Someone that I met today said that I look like a high school
-    student.'
+    Someone said that I look like a high school student.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -31527,9 +31526,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1232309832}
+  - {fileID: 1232309858}
   selectedCommands:
-  - {fileID: 1232309966}
+  - {fileID: 1232309854}
   variables:
   - {fileID: 1232309955}
   - {fileID: 1232309953}

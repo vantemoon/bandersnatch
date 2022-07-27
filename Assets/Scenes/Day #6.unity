@@ -28828,15 +28828,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: 'Ever since Meta Universe became a thing, there have been crazy debate
-    over the topic of whether it is a scam or not. The concept is novel, and exciting,
-    which also seems to open a whole new door to our world and reality.
-
-
-    Lately,
-    a new conspiracy theory regarding the whole Meta Universe being a scam has become
-    a trending topic.  While some people laughed about the situation, some others
-    continue to argue about its credibility.'
+  storyText: "Ever since Metaverse became a thing, there have been crazy debate over
+    the topic of whether it is a scam or not. \n\nLately, a new conspiracy theory
+    regarding the whole Metaverse being a scam has become a trending topic.  While
+    some people laughed about the situation, some others continue to argue about
+    its credibility."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -28863,7 +28859,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Is Meta Universe a Scam? Conspiracy Theory Heated Up The Debate
+  storyText: Is Metaverse a Scam? Conspiracy Theory Heated Up The Debate
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -35569,9 +35565,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1399562648}
-  selectedCommands:
-  - {fileID: 1399562725}
+  - {fileID: 1399562583}
+  selectedCommands: []
   variables:
   - {fileID: 1399562712}
   - {fileID: 1399562710}
