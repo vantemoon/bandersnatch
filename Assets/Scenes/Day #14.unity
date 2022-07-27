@@ -13519,7 +13519,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 1
-  storyText: You and Anya went to mall.
+  storyText: You and Anya went to the mall.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -24759,7 +24759,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 743823294}
   selectedCommands:
-  - {fileID: 743823420}
+  - {fileID: 743823289}
   variables:
   - {fileID: 743823415}
   - {fileID: 743823413}

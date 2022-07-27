@@ -4739,7 +4739,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    And also I really want to go outside and have some fun...'
+    I really want to go outside and have some fun...'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8937,7 +8937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 1
-  storyText: You and Anya went to cat cafe.
+  storyText: You and Anya went to a cat cafe.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11671,7 +11671,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I really need some money these days.'
+    I  need some money these days.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -20174,9 +20174,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 209050241}
+  - {fileID: 209050265}
   selectedCommands:
-  - {fileID: 209050368}
+  - {fileID: 209050367}
   variables:
   - {fileID: 209050362}
   - {fileID: 209050360}
@@ -20532,7 +20532,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    It has been really boring writing game every single day.'
+    It has been boring just writing game every single day.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}

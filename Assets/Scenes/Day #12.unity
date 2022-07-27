@@ -10428,7 +10428,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    What color matches me most?'
+    What color matches me the most?'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11959,7 +11959,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -10.598251
     y: 321.40842
-    width: 98.467834
+    width: 99.6129
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13220,7 +13220,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.272995
     y: 71.13917
-    width: 85.77388
+    width: 86.61904
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14626,7 +14626,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 1
-  storyText: You and Anya went to escape room.
+  storyText: You and Anya went to a escape room.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15265,7 +15265,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -153.37923
     y: 321.7274
-    width: 105.9688
+    width: 106.10982
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17166,7 +17166,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -301.97537
     y: 401.08932
-    width: 101.35282
+    width: 102.56604
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17360,7 +17360,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I want to paint the color of my nail.'
+    I want to paint my nail.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17847,7 +17847,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -165.50752
     y: 76.884125
-    width: 111.16179
+    width: 112.60675
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19411,9 +19411,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: People nowadays are trying to live as an avatar in game, and they can
-    do everything in the game. Games with Utopia would make people feel like gaming
-    can make everything better.
+  storyText: Nowadays, more people say that they would prefer to live as an in-game
+    avatar, the reason being that they feel they would be able to do everything in
+    the virtual world. The concept of utopia being adapted in video games gives 
+    people the idea of how everything would be easier in this new way of living.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -19440,7 +19441,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Headline Video
+  storyText: A New Way of Living Life
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -19927,7 +19928,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 324.76938
-    width: 92.69785
+    width: 93.706604
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21971,7 +21972,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -303.4914
     y: 241.3212
-    width: 92.69785
+    width: 93.11597
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24241,7 +24242,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 157.87303
-    width: 89.81287
+    width: 90.16282
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24632,7 +24633,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -303.8367
     y: 77.5154
-    width: 101.929825
+    width: 102.56604
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24680,7 +24681,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 124.61624
     y: 157.89734
-    width: 111.738785
+    width: 112.60675
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25331,7 +25332,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -13.591578
     y: 194.20018
-    width: 89.81287
+    width: 90.16282
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25609,7 +25610,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.913635
     y: 130.33061
-    width: 98.467834
+    width: 99.6129
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25717,7 +25718,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -144.47179
     y: 163.82834
-    width: 80.00389
+    width: 80.122116
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25848,11 +25849,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 405.18338, y: -61.592087}
+  scrollPos: {x: 417.20657, y: -59.60186}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 537
-  zoom: 0.86655414
+  zoom: 0.8465541
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -25862,7 +25863,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 542170846}
   selectedCommands:
-  - {fileID: 542170973}
+  - {fileID: 542170841}
   variables:
   - {fileID: 542170967}
   - {fileID: 542170965}
@@ -26218,7 +26219,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    I am thinking about black, cuz you like it most!'
+    I am thinking about black, cuz you like it the most!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}

@@ -29957,7 +29957,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -10.598251
     y: 321.40842
-    width: 99
+    width: 97.82344
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -31218,7 +31218,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.272995
     y: 72.73399
-    width: 86
+    width: 86.17415
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32624,7 +32624,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 1
-  storyText: You and Anya went to PC cafe.
+  storyText: You and Anya went to a PC cafe.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -33263,7 +33263,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -153.37923
     y: 321.7274
-    width: 106
+    width: 105.79402
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35164,7 +35164,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -301.97537
     y: 401.08932
-    width: 102
+    width: 101.50217
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35845,7 +35845,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -165.50752
     y: 76.884125
-    width: 112
+    width: 111.3121
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -37925,7 +37925,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 324.76938
-    width: 93
+    width: 92.91847
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -39969,7 +39969,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -302.29138
     y: 241.3212
-    width: 93
+    width: 92.30536
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -42239,7 +42239,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -300.7461
     y: 157.87303
-    width: 90
+    width: 89.239746
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -42630,7 +42630,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -303.8367
     y: 77.5154
-    width: 102
+    width: 102.115295
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -42678,7 +42678,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 124.61624
     y: 157.89734
-    width: 112
+    width: 111.3121
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -43329,7 +43329,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -13.591578
     y: 195.79501
-    width: 90
+    width: 89.239746
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -43607,7 +43607,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -19.913635
     y: 130.33061
-    width: 99
+    width: 97.82344
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -43715,7 +43715,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -142.19661
     y: 158.14038
-    width: 80
+    width: 80.04293
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -43846,11 +43846,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 392.78967, y: 81.115875}
+  scrollPos: {x: 385.57285, y: -38.640545}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 618
-  zoom: 1
+  zoom: 0.8154996
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -43858,8 +43858,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2031650788}
-  selectedCommands: []
+  - {fileID: 2031650764}
+  selectedCommands:
+  - {fileID: 2031650759}
   variables:
   - {fileID: 2031650885}
   - {fileID: 2031650883}

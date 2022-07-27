@@ -16084,6 +16084,7 @@ GameObject:
   - component: {fileID: 1208809114}
   - component: {fileID: 1208809090}
   - component: {fileID: 1208809202}
+  - component: {fileID: 1208809203}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -17306,7 +17307,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    mental health is really important!'
+    Mental health is really important!'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -21504,7 +21505,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 1
-  storyText: You and Anya went to botanic gardens.
+  storyText: You and Anya went to the botanic gardens.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -24237,8 +24238,7 @@ MonoBehaviour:
   indentLevel: 2
   storyText: 'Anya:
 
-    People should ask for help if they cannot cooperate with
-    it!'
+    People should ask for help '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -24740,6 +24740,7 @@ MonoBehaviour:
   - {fileID: 1208809096}
   - {fileID: 1208809034}
   - {fileID: 1208809097}
+  - {fileID: 1208809203}
   - {fileID: 1208809028}
   - {fileID: 1208809033}
   - {fileID: 1208809032}
@@ -26288,7 +26289,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 1
-  storyText: This newly-coming-out energy drink has been really commercially successful.
+  storyText: '*newly-coming-out energy drink commercial*'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -26315,7 +26316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 1
-  storyText: Energy Drink Commerical
+  storyText: The Only Energy Drink You'll Need
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -32735,9 +32736,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1208809140}
+  - {fileID: 1208809077}
   selectedCommands:
-  - {fileID: 1208809202}
+  - {fileID: 1208809072}
   variables:
   - {fileID: 1208809198}
   - {fileID: 1208809196}
@@ -33077,6 +33078,33 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &1208809203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1208809022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 231
+  indentLevel: 2
+  storyText: whenever they feel the need to!
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 0
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 375172205}
 --- !u!1 &1209122724
 GameObject:
   m_ObjectHideFlags: 0

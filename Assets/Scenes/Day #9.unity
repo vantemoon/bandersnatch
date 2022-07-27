@@ -15123,7 +15123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 1
-  storyText: You and Anya went to anime expo.
+  storyText: You and Anya went to an anime expo.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -26406,8 +26406,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 583409533}
-  selectedCommands: []
+  - {fileID: 583409507}
+  selectedCommands:
+  - {fileID: 583409502}
   variables:
   - {fileID: 583409630}
   - {fileID: 583409628}
