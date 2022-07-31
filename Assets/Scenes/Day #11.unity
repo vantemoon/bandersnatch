@@ -4387,7 +4387,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1735950120}
 --- !u!114 &171575634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6327,7 +6327,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1735950120}
 --- !u!114 &171575657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6354,7 +6354,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1735950120}
 --- !u!114 &171575658
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6381,7 +6381,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1735950120}
 --- !u!114 &171575659
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6603,7 +6603,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1735950120}
 --- !u!114 &171575662
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8418,9 +8418,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 171575698}
+  - {fileID: 171575660}
   selectedCommands:
-  - {fileID: 171575622}
+  - {fileID: 171575636}
   variables:
   - {fileID: 171575795}
   - {fileID: 171575793}
